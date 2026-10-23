@@ -1,9 +1,11 @@
-﻿# Python environments and cache
+# Python environments and cache
 __pycache__/
 *.py[cod]
 .venv/
 venv/
 env/
+*.db
+.pytest_cache/
 
 # Secrets and local environment files
 .env
